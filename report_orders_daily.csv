@@ -94,3 +94,5 @@ day,country,orders,revenue_sek,in_overlap
 2026-11-12,NO,1,659.05,true
 2026-11-12,SE,1,470.95,true
 2026-11-13,SE,1,470.95,true
+2026-11-14,NO,1,418,true
+2026-11-14,SE,2,811.9,true
